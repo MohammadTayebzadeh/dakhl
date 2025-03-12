@@ -39,3 +39,4 @@ package-lock.json
 *.crt
 *.key
 .env
+dakhl/settings.py
